@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+     <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <title>Html And Me</title>
+    
+  </head>
+<body>
+  <div id=out>
+    <form>
+      <input type="text" placeholder="Full Name" Name="Name">
+      <button>Subscribe</button>
+    </form>
+    <a href="\Users\Orrett\Desktop\Portfolio html site\Untitled.html"> HTML In Practise </a>
+    <div id="container"> 
+      <div id="header">
+          <h1>Story Of My Life</h1>
+      </div>
+         <div id="content">
+          
+            <div id="main">
+              <h2>My Story</h2>
+              <p>This is the story about how I &#34;<strong><em>discovered</em></strong>&#34;
+              the worlds most famous mark up language,
+              and how it is inspiring me to become a web engineer.
+              </p>
+              <p>It was just another day like any other, during the Corona 
+              (<a href="https://www.google.com/search?sxsrf=ALeKk018SNQ69nutV4ZVANxswspCaTLKFA:1586579568447&q=covid+19&spell=1&sa=X&ved=2ahUKEwiN6Na8xd_oAhVjUt8KHfHEB0QQBSgAegQIHBAl&biw=1517&bih=640">
+              <u><strong>Covid 19</strong></u></a>) Pandemic took the world by storm. 
+                There was not much going on at the time, in terms of work, and facebook, 
+                along with other social media platforms was more active than usual. I had earlier 
+                received several friend requests, and while browsing through, I came across something 
+                that has changed my life forever
+                It was a free html course being offered by pirple.com. Instantly my interest was peaked
+                and i clicked on the link.  i started watching the course introduction video and as they say, 
+                the rest was history.  i became captivated by what i was seeing and hearing and decided i was 
+                going to enrole and become proficient at it aand now i am giving it my all.
+              </p>
+              <p>So far it has been a very interesting and excited experience. i have learnt, and is learning so 
+                much. 
+                It wont be an easy journey, but i am working to become a web developer and make this a profitable
+                venture.  The secret  is to do as much reserch as possible, practise as mush aas posssible to 
+                beecome the best
+                i can.  My greatest joy will be to create a page that someone can view and be aken a back . Until 
+                then, its work and more work...
+              </p>
+            </div>
+        </div>
+        <div id="footer">Created by Orrett Fagon; Edited by Charmaine Binns
+        </div>
+    </div>
+  </div>  
+</body>
+</html>
